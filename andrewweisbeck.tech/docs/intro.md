@@ -16,6 +16,9 @@ To get started, I just want to give some info about my time learning full-stack 
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Whatever technology is called for in the project:
+  - Frontend, backend, middleware, etc. can be found in the tutorial
+  - List of all Featured tech below as well!
 
 ## Generate a new site
 

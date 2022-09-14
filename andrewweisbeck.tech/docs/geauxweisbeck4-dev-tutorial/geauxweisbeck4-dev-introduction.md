@@ -8,34 +8,32 @@ This is the 2nd version of my professional website. It really needs a huge full-
 
 I want a full-stack application with music, a dashboard, sports stuff, polls... everything! 
 
-## Create your first React Page
+## Features 
 
-Create a file at `src/pages/my-react-page.js`:
+This website has an awesome tech stack:
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+- NextJS Front End Framework
+- 
+## Get Started
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
+Deploy to Vercel
+
+Deploy to Netlify
+
+To get started, you can fork this branch and then git clone your repository, or you can run the following:
+
+```
+// Clone repository to your local environment
+$ git clone https://github.com/geauxweisbeck4/geauxweisbeck4.dev 
+
+// CD into `GeauxWeisbeck4.dev` and start
+$ cd GeauxWeisbeck4.dev
+$ npm install
+$ npm run start
 ```
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+## What's Next?
 
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+- Frontend 
+  - Adding NextJS and Storyblok CMS
+  - 
