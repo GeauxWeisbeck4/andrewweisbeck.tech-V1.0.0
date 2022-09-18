@@ -8,7 +8,7 @@ This is the official documentation site for all of the sprints I participated in
 
 ## Sign Up for the App
 
-You can sign up for the application if you were or are a Section4 student [here](). You will get access to the chatboard and the contacts section.
+You can sign up for the application if you were or are a Section4 student [here](https://geaux-section4.netlify.app). You will get access to the chatboard and the contacts section.
 
 ## Getting Started
 
