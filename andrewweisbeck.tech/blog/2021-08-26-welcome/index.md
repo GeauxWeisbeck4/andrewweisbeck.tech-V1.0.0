@@ -2,24 +2,17 @@
 slug: welcome
 title: Welcome
 authors: [weisbeck]
-tags: [facebook, hello, docusaurus]
+tags: [docusaurus, introduction, geauxweisbeck4, web development, authentic]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to my web development personal documents! Here are notes, tutorials, resources and more from all the projects I'm working on. There is a lot of good stuff on the internet if you just keep diggin - just don't dig yourself too deep into a hole!
 
-Simply add Markdown files (or folders) to the `blog` directory.
+That's why I created my tech docs - to have an awesome look at how I created my own projects, and how you could also create yours. I try to leave freedom within my notes that don't strictly follow my own projects - I want you to use your imagination and make it better than mine.
 
-Regular blog authors can be added to `authors.yml`.
+## andrewweisbeck.tech Tech Docs Website (ft. Docusaurus)
 
-The blog post date can be extracted from filenames, such as:
+I don't care what you think about Facebook, but their Docusaurus Static Site Generator (SSG) is just so money for keeping docs as a tech person. You can blog, easily customize sidebars and of course, make documentation for literally anything you can dream of!
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+I just basically changed a few things on this blog page to get up and running and testing everything locally and pushing it on up to Vercel. Don't worry, there will be plenty of Docusaurus sites tried out on Netlify as well. I just love trying all of the Jamstack and other JavaScript technology out no matter what it is really.
 
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+## Docusaurus Raaawwrr

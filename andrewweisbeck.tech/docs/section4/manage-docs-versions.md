@@ -2,26 +2,15 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Section4
 
-Docusaurus can manage multiple versions of your docs.
+This is the official documentation site for all of the sprints I participated in at Section4 during 2022. This is more of a technical documentation about how I built the websites I made for each project. I hope you enjoy learning more and feel free to reach out anytime or need help getting added to the Section4 contacts list site.
 
-## Create a docs version
+## Sign Up for the App
 
-Release a version 1.0 of your project:
+You can sign up for the application if you were or are a Section4 student [here](). You will get access to the chatboard and the contacts section.
 
-```bash
-npm run docusaurus docs:version 1.0
-```
-
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
-
-Your docs now have 2 versions:
-
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
+## Getting Started
 
 To navigate seamlessly across versions, add a version dropdown.
 

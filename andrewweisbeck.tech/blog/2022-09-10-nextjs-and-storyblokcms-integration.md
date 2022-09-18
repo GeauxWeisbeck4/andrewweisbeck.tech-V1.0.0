@@ -10,3 +10,4 @@ This blog post was created referencing the following articles and documentation 
 
  ## Integrating Storyblok CMS and NextJS
 
+There is a great tutorial that gets you started with NextJS and Storyblok, plus gets you started with a NavBar and Blog.

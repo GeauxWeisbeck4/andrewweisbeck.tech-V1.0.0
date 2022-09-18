@@ -1,8 +1,8 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: geauxweisbeck4-dev-version-2
+title: GeauxWeisbeck4.dev Version 2
 authors: weisbeck
-tags: [hello, docusaurus]
+tags: [geaux, nextjs, storyblokcms, tailwindcss, postgresql, prisma]
 ---
 
 This is the summary of a very long blog post,
