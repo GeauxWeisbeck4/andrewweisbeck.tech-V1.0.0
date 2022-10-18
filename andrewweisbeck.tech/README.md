@@ -1,6 +1,6 @@
-# Website
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# AndrewWeisbeck.tech - The official documentation site for the projects of GeauxWeisbeck4
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. I chose
+Docusaurus because of its ease of implementation and 
 
 ### Installation
 
